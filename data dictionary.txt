@@ -1,0 +1,168 @@
+
+tidydata1.csv Data is presented as a table of 82 columns with observations on each of the 10299 rows 
+
+source - source file for observations test or Train
+subject - The ID of the subject 1:30
+activity - The Activity being measured                    
+tBodyAccstdX - standard deviation of the measure of the body from the Accelerometer for the x axis over time                 
+tBodyAccstdY - standard deviation of the measure of the body from the Accelerometer for the y axis over time 
+tBodyAccstdZ - standard deviation of the measure of the body from the Accelerometer for the z axis over time                
+tGravityAccstdX - standard deviation of the measure of Gravity from the Accelerometer for the x axis over time 
+tGravityAccstdY - standard deviation of the measure of Gravity from the Accelerometer for the y axis over time 
+tGravityAccstdZ - standard deviation of the measure of Gravity from the Accelerometer for the z axis over time            
+tBodyAccJerkstdX - standard deviation of the measure of the body from the Accelerometer for the x axis over time for jerky motion
+tBodyAccJerkstdY - standard deviation of the measure of the body from the Accelerometer for the y axis over time for jerky motion
+tBodyAccJerkstdZ - standard deviation of the measure of the body from the Accelerometer for the z axis over time for jerky motion          
+tBodyGyrostdX - standard deviation of the measure of the body from the gyroscope for the x axis over time   
+tBodyGyrostdY - standard deviation of the measure of the body from the gyroscope for the y axis over time 
+tBodyGyrostdZ - standard deviation of the measure of the body from the gyroscope for the z axis over time              
+tBodyGyroJerkstdX - standard deviation of the measure of the body from the gyroscope for the x axis over time for jerky motion
+tBodyGyroJerkstdY - standard deviation of the measure of the body from the gyroscope for the y axis over time for jerky motion
+tBodyGyroJerkstdZ - standard deviation of the measure of the body from the gyroscope for the z axis over time for jerky motion          
+tBodyAccMagstd - standard deviation of the amplitude measure of the body from the accelerometer over time  
+tGravityAccMagstd - standard deviation of the amplitude measure of gravity from the accelerometer over time
+tBodyAccJerkMagstd - standard deviation of the amplitude measure of the body from the accelerometer over time for jerky motion        
+tBodyGyroMagstd - standard deviation of the amplitude measure of the body from the gyroscope over time
+tBodyGyroJerkMagstd - standard deviation of the amplitude measure of the body from the gyroscope over time for jerky motion
+fBodyAccstdX - standard deviation of the measure of the body from the Accelerometer for the x axis over frequency              
+fBodyAccstdY - standard deviation of the measure of the body from the Accelerometer for the y axis over frequency
+fBodyAccstdZ - standard deviation of the measure of the body from the Accelerometer for the z axis over frequency
+fBodyAccJerkstdX
+fBodyAccJerkstdY          
+fBodyAccJerkstdZ
+fBodyGyrostdX               
+fBodyGyrostdY
+fBodyGyrostdZ
+fBodyAccMagstd             
+fBodyBodyAccJerkMagstd
+fBodyBodyGyroMagstd
+fBodyBodyGyroJerkMagstd   
+tBodyAccmeanX - mean of the measure of the body from the Accelerometer for the x axis over time
+tBodyAccmeanY - mean of the measure of the body from the Accelerometer for the y axis over time
+tBodyAccmeanZ - mean of the measure of the body from the Accelerometer for the z axis over time
+tGravityAccmeanX
+tGravityAccmeanY
+tGravityAccmeanZ            
+tBodyAccJerkmeanX
+tBodyAccJerkmeanY
+tBodyAccJerkmeanZ           
+tBodyGyromeanX
+tBodyGyromeanY
+tBodyGyromeanZ              
+tBodyGyroJerkmeanX
+tBodyGyroJerkmeanY
+tBodyGyroJerkmeanZ          
+tBodyAccMagmean
+tGravityAccMagmean
+tBodyAccJerkMagmean         
+tBodyGyroMagmean
+tBodyGyroJerkMagmean
+fBodyAccmeanX               
+fBodyAccmeanY
+fBodyAccmeanZ
+fBodyAccmeanFreqX           
+fBodyAccmeanFreqY
+fBodyAccmeanFreqZ
+fBodyAccJerkmeanX           
+fBodyAccJerkmeanY
+fBodyAccJerkmeanZ
+fBodyAccJerkmeanFreqX       
+fBodyAccJerkmeanFreqY
+fBodyAccJerkmeanFreqZ
+fBodyGyromeanX              
+fBodyGyromeanY
+fBodyGyromeanZ
+fBodyGyromeanFreqX          
+fBodyGyromeanFreqY
+fBodyGyromeanFreqZ
+fBodyAccMagmean             
+fBodyAccMagmeanFreq
+fBodyBodyAccJerkMagmean
+fBodyBodyAccJerkMagmeanFreq 
+fBodyBodyGyroMagmean
+fBodyBodyGyroMagmeanFreq
+fBodyBodyGyroJerkMagmean    
+fBodyBodyGyroJerkMagmeanFreq
+
+tidydata2.csv Data is presented as a table of 80 columns with observations on each of the 37 rows 
+
+label - Average value as "Average", "Average by subject" or "Average by action"      
+tBodyAccstdX - standard deviation of the measure of the body from the Accelerometer for the x axis over time                 
+tBodyAccstdY - standard deviation of the measure of the body from the Accelerometer for the y axis over time 
+tBodyAccstdZ - standard deviation of the measure of the body from the Accelerometer for the z axis over time                
+tGravityAccstdX - standard deviation of the measure of Gravity from the Accelerometer for the x axis over time 
+tGravityAccstdY - standard deviation of the measure of Gravity from the Accelerometer for the y axis over time 
+tGravityAccstdZ - standard deviation of the measure of Gravity from the Accelerometer for the z axis over time            
+tBodyAccJerkstdX - standard deviation of the measure of the body from the Accelerometer for the x axis over time for jerky motion
+tBodyAccJerkstdY - standard deviation of the measure of the body from the Accelerometer for the y axis over time for jerky motion
+tBodyAccJerkstdZ - standard deviation of the measure of the body from the Accelerometer for the z axis over time for jerky motion          
+tBodyGyrostdX - standard deviation of the measure of the body from the gyroscope for the x axis over time   
+tBodyGyrostdY - standard deviation of the measure of the body from the gyroscope for the y axis over time 
+tBodyGyrostdZ - standard deviation of the measure of the body from the gyroscope for the z axis over time              
+tBodyGyroJerkstdX - standard deviation of the measure of the body from the gyroscope for the x axis over time for jerky motion
+tBodyGyroJerkstdY - standard deviation of the measure of the body from the gyroscope for the y axis over time for jerky motion
+tBodyGyroJerkstdZ - standard deviation of the measure of the body from the gyroscope for the z axis over time for jerky motion          
+tBodyAccMagstd - standard deviation of the amplitude measure of the body from the accelerometer over time  
+tGravityAccMagstd - standard deviation of the amplitude measure of gravity from the accelerometer over time
+tBodyAccJerkMagstd - standard deviation of the amplitude measure of the body from the accelerometer over time for jerky motion        
+tBodyGyroMagstd - standard deviation of the amplitude measure of the body from the gyroscope over time
+tBodyGyroJerkMagstd - standard deviation of the amplitude measure of the body from the gyroscope over time for jerky motion
+fBodyAccstdX - standard deviation of the measure of the body from the Accelerometer for the x axis over frequency              
+fBodyAccstdY - standard deviation of the measure of the body from the Accelerometer for the y axis over frequency
+fBodyAccstdZ - standard deviation of the measure of the body from the Accelerometer for the z axis over frequency
+fBodyAccJerkstdX
+fBodyAccJerkstdY          
+fBodyAccJerkstdZ
+fBodyGyrostdX               
+fBodyGyrostdY
+fBodyGyrostdZ
+fBodyAccMagstd             
+fBodyBodyAccJerkMagstd
+fBodyBodyGyroMagstd
+fBodyBodyGyroJerkMagstd   
+tBodyAccmeanX - mean of the measure of the body from the Accelerometer for the x axis over time
+tBodyAccmeanY - mean of the measure of the body from the Accelerometer for the y axis over time
+tBodyAccmeanZ - mean of the measure of the body from the Accelerometer for the z axis over time
+tGravityAccmeanX
+tGravityAccmeanY
+tGravityAccmeanZ            
+tBodyAccJerkmeanX
+tBodyAccJerkmeanY
+tBodyAccJerkmeanZ           
+tBodyGyromeanX
+tBodyGyromeanY
+tBodyGyromeanZ              
+tBodyGyroJerkmeanX
+tBodyGyroJerkmeanY
+tBodyGyroJerkmeanZ          
+tBodyAccMagmean
+tGravityAccMagmean
+tBodyAccJerkMagmean         
+tBodyGyroMagmean
+tBodyGyroJerkMagmean
+fBodyAccmeanX               
+fBodyAccmeanY
+fBodyAccmeanZ
+fBodyAccmeanFreqX           
+fBodyAccmeanFreqY
+fBodyAccmeanFreqZ
+fBodyAccJerkmeanX           
+fBodyAccJerkmeanY
+fBodyAccJerkmeanZ
+fBodyAccJerkmeanFreqX       
+fBodyAccJerkmeanFreqY
+fBodyAccJerkmeanFreqZ
+fBodyGyromeanX              
+fBodyGyromeanY
+fBodyGyromeanZ
+fBodyGyromeanFreqX          
+fBodyGyromeanFreqY
+fBodyGyromeanFreqZ
+fBodyAccMagmean             
+fBodyAccMagmeanFreq
+fBodyBodyAccJerkMagmean
+fBodyBodyAccJerkMagmeanFreq 
+fBodyBodyGyroMagmean
+fBodyBodyGyroMagmeanFreq
+fBodyBodyGyroJerkMagmean    
+fBodyBodyGyroJerkMagmeanFreq
